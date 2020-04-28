@@ -7,3 +7,7 @@ Minha terra tem palmeiras
 onde canta o sabiá
 seno de a cosseno de b
 seno de b cosseno de a
+
+The path is only made by walking.
+
+If you woke up tomorrow only with the things you thanked for it today, what would you have ?
